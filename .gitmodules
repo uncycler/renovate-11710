@@ -1,0 +1,3 @@
+[submodule "renovate-11710-subgroup"]
+	path = renovate-11710-subgroup
+	url = ../renovate-11710-subgroup.git
